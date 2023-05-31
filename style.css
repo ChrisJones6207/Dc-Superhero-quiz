@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'Oswald', sans-serif;
+    background-color: #17d3ff;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+}
+
+.Joker{display: none;}
+
+.RedHood{display:none;}
+
+.Bane{display:none;}
+
+.Batman{display:none;}
